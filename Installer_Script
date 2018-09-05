@@ -66,3 +66,7 @@ localhost:8888
 # setup new password (lower half of screen) by copy & paste of token shown in your azure jupyter terminal
 # copy the token from the terminal juypter startup session 
 # Note that you have to restart the jupyter server for the password to be stored
+
+### Optional but recommended ###
+# open new terminal ssh -j user IPADRESS
+# type "watch nvidia-smi" for realtime gpu usage
