@@ -63,5 +63,6 @@ ssh -L 8888:localhost:8888 $MY_UP_ADRESS  -Y -l myuser
 # go to browser of your laptop
 localhost:8888
 
-# setup new password (lower half of screen) by copy & paste of token shown in your azure jupyter temrinal
+# setup new password (lower half of screen) by copy & paste of token shown in your azure jupyter terminal
 # copy the token from the terminal juypter startup session 
+# Note that you have to restart the jupyter server for the password to be stored
