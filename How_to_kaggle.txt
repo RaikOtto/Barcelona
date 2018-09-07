@@ -1,0 +1,11 @@
+1. Please download the gz file
+
+wget https://kaggle2.blob.core.windows.net/forum-message-attachments/263398/8134/kaggle-digit-recognizer-data.tar.gz
+
+2. Untar it
+
+tar -xvf kaggle-digit-recognizer-data.tar 
+
+And,
+
+3. Run the notebook 
