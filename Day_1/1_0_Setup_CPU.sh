@@ -21,9 +21,6 @@ mkdir Downloads
 cd Downloads
 
 # Download data SKIP COMMENTED LINES
-#wget https://developer.nvidia.com/compute/cuda/9.2/Prod2/local_installers/cuda_9.2.148_396.37_linux
-#wget http://developer.download.nvidia.com/compute/redist/cudnn/v7.2.1/cudnn-9.2-linux-x64-v7.2.1.38.tgz
-#wget https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.10.1-cp36-cp36m-linux_x86_64.whl
 wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 wget https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
